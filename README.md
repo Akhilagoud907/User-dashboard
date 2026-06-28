@@ -4,7 +4,7 @@ A fully functional **React-based User Management Dashboard** that performs compl
 
 This project uses **JSONPlaceholder** as a mock backend for API testing and learning purposes.
 
----
+
 
 ## 🎯 Objective
 
@@ -21,7 +21,7 @@ Supports:
 - Pagination
 - Validation
 
----
+
 
 ## 🚀 Features
 
@@ -37,7 +37,7 @@ Supports:
 - 💡 API error handling  
 - 📱 Responsive UI  
 
----
+
 
 ## 🛠 Tech Stack
 
@@ -47,7 +47,7 @@ Supports:
 - CSS3  
 - Axios  
 
----
+
 
 ## 🌐 Live API
 
@@ -55,7 +55,7 @@ Supports:
 https://jsonplaceholder.typicode.com/users
 ```
 
----
+
 
 ## 📁 Project Structure
 
@@ -88,7 +88,7 @@ src/
 └── main.jsx
 ```
 
----
+
 
 ## ⚙️ Installation
 
@@ -99,7 +99,7 @@ npm install
 npm run dev   # or npm start
 ```
 
----
+
 
 ## ⚙️ Core Functionalities
 
@@ -120,14 +120,14 @@ Sorting:
 Pagination:
 - 10 / 25 / 50 / 100  
 
----
+
 
 ## 🔄 Data Mapping
 
 - name → firstName + lastName  
 - department → dynamic mapping  
 
----
+
 
 ## 🔌 API Endpoints
 
@@ -138,14 +138,14 @@ Pagination:
 | PUT | /users/:id | Update user |
 | DELETE | /users/:id | Delete user |
 
----
+
 
 ## ⚠️ Error Handling
 
 - API failures handled with try-catch  
 - User-friendly error messages  
 
----
+
 
 ## 📱 Responsive Design
 
@@ -153,7 +153,7 @@ Pagination:
 - Scrollable table  
 - Adaptive UI  
 
----
+
 
 ## 🚀 Future Improvements
 
@@ -162,12 +162,11 @@ Pagination:
 - React Query  
 - Tailwind CSS  
 
----
 
 ## 👨‍💻 Author
 
 Akhila  
 Built with ❤️ using React
 ```
----
+
 
