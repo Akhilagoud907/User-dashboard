@@ -47,30 +47,34 @@ https://jsonplaceholder.typicode.com/users
 
 ## 📁 Project Structure
 
-src/
+src
 │
-├── api/
+├── api
 │   └── userService.js
 │
-├── components/
+├── components
 │   ├── Header.jsx
-│   ├── UserTable.jsx
-│   ├── UserForm.jsx
 │   ├── SearchBar.jsx
 │   ├── FilterModal.jsx
-│   ├── Pagination.jsx
+│   ├── UserTable.jsx
+│   ├── UserForm.jsx
 │   ├── DeleteModal.jsx
+│   └── Pagination.jsx
 │
-├── hooks/
+├── hooks
 │   └── useUsers.js
 │
-├── utils/
+├── utils
 │   ├── constants.js
 │   ├── helpers.js
 │   └── validators.js
 │
+├── styles
+│   └── app.css
+│
 ├── App.jsx
 └── main.jsx
+
 
 ## ⚙️ Installation
 
