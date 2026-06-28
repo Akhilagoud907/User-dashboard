@@ -167,6 +167,3 @@ Pagination:
 
 Akhila  
 Built with ❤️ using React
-```
-
-
