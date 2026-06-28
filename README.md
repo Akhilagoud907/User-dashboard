@@ -47,12 +47,12 @@ https://jsonplaceholder.typicode.com/users
 
 ## 📁 Project Structure
 
-src
-│
-├── api
+```bash
+src/
+├── api/
 │   └── userService.js
 │
-├── components
+├── components/
 │   ├── Header.jsx
 │   ├── SearchBar.jsx
 │   ├── FilterModal.jsx
@@ -61,15 +61,15 @@ src
 │   ├── DeleteModal.jsx
 │   └── Pagination.jsx
 │
-├── hooks
+├── hooks/
 │   └── useUsers.js
 │
-├── utils
+├── utils/
 │   ├── constants.js
 │   ├── helpers.js
 │   └── validators.js
 │
-├── styles
+├── styles/
 │   └── app.css
 │
 ├── App.jsx
